@@ -171,11 +171,10 @@ dengan pemograman berorientasi objek?
           error ! format yang anda masukkan salah!
           
 
-
-##STRUKTUR FOLDER
+#STRUKTUR FOLDER
 
           📦UTS_PBO
-              ┣ 📜README..md
+              ┣ 📜README.md
               ┣ 📜jawaban1.py
               ┣ 📜jawaban2.py
               ┣ 📜jawaban3.py
