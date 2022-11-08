@@ -172,4 +172,11 @@ dengan pemograman berorientasi objek?
           
 
 
-
+#STRUKTUR FOLDER
+📦UTS_PBO
+ ┣ 📜README..md
+ ┣ 📜jawaban1.py
+ ┣ 📜jawaban2.py
+ ┣ 📜jawaban3.py
+ ┣ 📜jawaban4.py
+ ┗ 📜jawaban5.py
