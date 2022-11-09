@@ -78,7 +78,7 @@ dengan pemograman berorientasi objek?
 
             elif pil == '2':
                 print("Memilih teh")
-                harga = int(input("Masukkan Harga : "))
+                harga_awal = int(input("Masukkan Harga : "))
                 ppn = harga_awal * 0.1
                 total = ppn + harga_awal
                 print(int(total))
